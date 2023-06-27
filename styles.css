@@ -418,10 +418,10 @@ body{
     letter-spacing: .15rem;
     color: var(--color-black);
     background: var(--color-white);
-
+    
     text-align: center;
     text-decoration: none;
-
+    
     border-radius: 10px;
     cursor: pointer;
     
@@ -429,7 +429,7 @@ body{
 
 .button-cta a:hover {
     transition: all .3s ease;
-   filter: brightness(.8); 
+   filter: brightness(.8);
 }
 /*final da segunda parte*/
 
